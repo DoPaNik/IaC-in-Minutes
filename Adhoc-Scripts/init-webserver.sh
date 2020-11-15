@@ -1,3 +1,5 @@
+#!/bin/bash
+
 # Update Package Manager
 sudo apt-get update
 
